@@ -1,0 +1,10 @@
+bin\Debug\MaresPad.exe
+bin\Debug\MaresPad.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MaresPad.Form1.resources
+obj\Debug\MaresPad.Properties.Resources.resources
+obj\Debug\MaresPad.csproj.GenerateResource.Cache
+obj\Debug\MaresPad.exe
+obj\Debug\MaresPad.pdb
+obj\Debug\MaresPad.AcercaDe.resources
+obj\Debug\MaresPad.Buscar.resources

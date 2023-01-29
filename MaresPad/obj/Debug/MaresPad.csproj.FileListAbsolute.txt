@@ -1,0 +1,13 @@
+C:\Users\Luis Mares\Downloads\MaresPad\MaresPad\MaresPad\obj\Debug\MaresPad.csproj.AssemblyReference.cache
+C:\Users\Luis Mares\Downloads\MaresPad\MaresPad\MaresPad\obj\Debug\MaresPad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luis Mares\Downloads\MaresPad\MaresPad\MaresPad\bin\Debug\MaresPad.exe.config
+C:\Users\Luis Mares\Downloads\MaresPad\MaresPad\MaresPad\bin\Debug\MaresPad.exe
+C:\Users\Luis Mares\Downloads\MaresPad\MaresPad\MaresPad\bin\Debug\MaresPad.pdb
+C:\Users\Luis Mares\Downloads\MaresPad\MaresPad\MaresPad\obj\Debug\MaresPad.AcercaDe.resources
+C:\Users\Luis Mares\Downloads\MaresPad\MaresPad\MaresPad\obj\Debug\MaresPad.Buscar.resources
+C:\Users\Luis Mares\Downloads\MaresPad\MaresPad\MaresPad\obj\Debug\MaresPad.Form1.resources
+C:\Users\Luis Mares\Downloads\MaresPad\MaresPad\MaresPad\obj\Debug\MaresPad.Properties.Resources.resources
+C:\Users\Luis Mares\Downloads\MaresPad\MaresPad\MaresPad\obj\Debug\MaresPad.csproj.GenerateResource.cache
+C:\Users\Luis Mares\Downloads\MaresPad\MaresPad\MaresPad\obj\Debug\MaresPad.csproj.CoreCompileInputs.cache
+C:\Users\Luis Mares\Downloads\MaresPad\MaresPad\MaresPad\obj\Debug\MaresPad.exe
+C:\Users\Luis Mares\Downloads\MaresPad\MaresPad\MaresPad\obj\Debug\MaresPad.pdb

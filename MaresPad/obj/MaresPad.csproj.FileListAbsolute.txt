@@ -1,0 +1,30 @@
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\MaresPad\MaresPad\obj\Debug\MaresPad.exe
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\MaresPad\MaresPad\obj\Debug\MaresPad.pdb
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\MaresPad\MaresPad\bin\Debug\MaresPad.exe
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\MaresPad\MaresPad\bin\Debug\MaresPad.pdb
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\MaresPad\MaresPad\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\MaresPad\MaresPad\obj\Debug\MaresPad.Form1.resources
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\MaresPad\MaresPad\obj\Debug\MaresPad.Properties.Resources.resources
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\MaresPad\MaresPad\obj\Debug\MaresPad.csproj.GenerateResource.Cache
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\MaresPad\MaresPad\obj\Debug\MaresPad.AcercaDe.resources
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\MaresPad\MaresPad\obj\Debug\MaresPad.Buscar.resources
+C:\Users\vista\Desktop\MaresPad\MaresPad\obj\Debug\MaresPad.exe
+C:\Users\vista\Desktop\MaresPad\MaresPad\obj\Debug\MaresPad.pdb
+C:\Users\vista\Desktop\MaresPad\MaresPad\bin\Debug\MaresPad.exe
+C:\Users\vista\Desktop\MaresPad\MaresPad\bin\Debug\MaresPad.pdb
+C:\Users\vista\Desktop\MaresPad\MaresPad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vista\Desktop\MaresPad\MaresPad\obj\Debug\MaresPad.AcercaDe.resources
+C:\Users\vista\Desktop\MaresPad\MaresPad\obj\Debug\MaresPad.Buscar.resources
+C:\Users\vista\Desktop\MaresPad\MaresPad\obj\Debug\MaresPad.Form1.resources
+C:\Users\vista\Desktop\MaresPad\MaresPad\obj\Debug\MaresPad.Properties.Resources.resources
+C:\Users\vista\Desktop\MaresPad\MaresPad\obj\Debug\MaresPad.csproj.GenerateResource.Cache
+F:\MaresPad\MaresPad\obj\Debug\MaresPad.exe
+F:\MaresPad\MaresPad\obj\Debug\MaresPad.pdb
+F:\MaresPad\MaresPad\obj\Debug\ResolveAssemblyReference.cache
+F:\MaresPad\MaresPad\obj\Debug\MaresPad.AcercaDe.resources
+F:\MaresPad\MaresPad\obj\Debug\MaresPad.Buscar.resources
+F:\MaresPad\MaresPad\obj\Debug\MaresPad.Form1.resources
+F:\MaresPad\MaresPad\obj\Debug\MaresPad.Properties.Resources.resources
+F:\MaresPad\MaresPad\obj\Debug\MaresPad.csproj.GenerateResource.Cache
+F:\MaresPad\MaresPad\bin\Debug\MaresPad.exe
+F:\MaresPad\MaresPad\bin\Debug\MaresPad.pdb
